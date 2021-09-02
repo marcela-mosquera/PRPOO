@@ -1,3 +1,6 @@
+/*
+sms
+*/
 package com.paa.modelo;
 
 import java.util.ArrayList;
